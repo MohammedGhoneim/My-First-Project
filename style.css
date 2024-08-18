@@ -145,17 +145,20 @@ video{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 100PX;
+    font-size: 72PX;
+    padding: 0 15px;
    
 }
+
 
 .z{
     height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 100PX;
+    font-size: 72PX;
     background-color: white;
+    padding: 0 15px;
 }
 
 
